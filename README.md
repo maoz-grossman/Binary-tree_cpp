@@ -1,1 +1,1 @@
-# מגישים: לירון ארד, מיכאל למברגר, מעוז גרוסמן
+# Simple implementation of a binary tree in c ++
